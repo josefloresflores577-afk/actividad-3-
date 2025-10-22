@@ -1,0 +1,11 @@
+D:\PROG1 P3\Controlusuario\bin\Debug\Controlusuario.exe.config
+D:\PROG1 P3\Controlusuario\bin\Debug\Controlusuario.exe
+D:\PROG1 P3\Controlusuario\bin\Debug\Controlusuario.pdb
+D:\PROG1 P3\Controlusuario\obj\Debug\Controlusuario.csproj.AssemblyReference.cache
+D:\PROG1 P3\Controlusuario\obj\Debug\Controlusuario.Bienvenida.resources
+D:\PROG1 P3\Controlusuario\obj\Debug\Controlusuario.Form1.resources
+D:\PROG1 P3\Controlusuario\obj\Debug\Controlusuario.Properties.Resources.resources
+D:\PROG1 P3\Controlusuario\obj\Debug\Controlusuario.csproj.GenerateResource.cache
+D:\PROG1 P3\Controlusuario\obj\Debug\Controlusuario.csproj.CoreCompileInputs.cache
+D:\PROG1 P3\Controlusuario\obj\Debug\Controlusuario.exe
+D:\PROG1 P3\Controlusuario\obj\Debug\Controlusuario.pdb
