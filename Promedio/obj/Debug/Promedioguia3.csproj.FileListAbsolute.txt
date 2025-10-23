@@ -1,0 +1,11 @@
+D:\PROG1 P3\Promedioguia3\bin\Debug\Promedioguia3.exe.config
+D:\PROG1 P3\Promedioguia3\bin\Debug\Promedioguia3.exe
+D:\PROG1 P3\Promedioguia3\bin\Debug\Promedioguia3.pdb
+D:\PROG1 P3\Promedioguia3\obj\Debug\Promedioguia3.csproj.AssemblyReference.cache
+D:\PROG1 P3\Promedioguia3\obj\Debug\Promedioguia3.Contacto.resources
+D:\PROG1 P3\Promedioguia3\obj\Debug\Promedioguia3.Form1.resources
+D:\PROG1 P3\Promedioguia3\obj\Debug\Promedioguia3.Properties.Resources.resources
+D:\PROG1 P3\Promedioguia3\obj\Debug\Promedioguia3.csproj.GenerateResource.cache
+D:\PROG1 P3\Promedioguia3\obj\Debug\Promedioguia3.csproj.CoreCompileInputs.cache
+D:\PROG1 P3\Promedioguia3\obj\Debug\Promedioguia3.exe
+D:\PROG1 P3\Promedioguia3\obj\Debug\Promedioguia3.pdb
